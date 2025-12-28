@@ -139,7 +139,6 @@ CREATE TABLE popular_countries (
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP 
         ON UPDATE CURRENT_TIMESTAMP
 );
-
 ```
 
 ### 4️⃣ Configure Database Connection
