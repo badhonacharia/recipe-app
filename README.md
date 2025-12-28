@@ -5,7 +5,6 @@
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![API](https://img.shields.io/badge/API-TheMealDB-orange)
-[![TheMealDB](https://img.shields.io/badge/API-TheMealDB-orange)](https://www.themealdb.com/)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css)
 ![Apache](https://img.shields.io/badge/Apache-Server-D22128?logo=apache)
@@ -93,7 +92,6 @@ recipe-app/
 ├── search.php
 ├── recipe.php
 ├── README.md
-
 ```
 
 ---
